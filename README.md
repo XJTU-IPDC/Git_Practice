@@ -5,3 +5,7 @@
 
 - [Git 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
 - [Git 可视化学习](https://learngitbranching.js.org)
+
+## Git 简单讲解及练习
+
+- [Git简单讲解及练习](./Git练习题.md)

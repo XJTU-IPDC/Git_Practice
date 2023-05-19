@@ -3,7 +3,7 @@
 
 ## Git基本操作
 
-### 1. Clone一个仓库
+### 1. git clone
 
 大多数人从Github上下载代码是直接 `Download Zip` 的，这当然是可行的，因为非常之方便。但如果要维护一个自己的Git项目，或者想要方便地与一个开源项目保持同步更新，`Download Zip`显然不是一个优雅地操作。
 这个时候就需要用到`git clone`命令出场了。
@@ -14,6 +14,12 @@
 git clone <repo url>
 ```
 > **小练习：Clone本仓库到本地**
+
+### 2. git commit
+
+### 3. git push
+
+### 4. git pull
 
 
 
@@ -30,3 +36,9 @@ Fork操作非常简单，主要分为两步：
 2. 点击右上角的Fork按钮即可。（如果没登录Github账号，在这一步需要登录）
 
 > **小练习：Fork本仓库到自己的repo中**
+
+### 2. 在Fork来的仓库上进行修改
+
+### 3. 提交PR(Pull Request)
+
+### 4. 审核(review)并合并(merge)PR
